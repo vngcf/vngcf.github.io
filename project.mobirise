@@ -29,6 +29,9 @@
       },
       "additionalSetColors": []
     },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-heart-128x147-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
     "versionFirst": "4.0.12",
     "uniqCompNum": 2,
     "versionPublish": "4.0.12"
@@ -37,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "VNGCF",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
